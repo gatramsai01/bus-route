@@ -1,0 +1,25 @@
+.FindORBody{
+    height: auto;
+    background-color: black;
+    color: white;
+}
+.Bodi{
+    position: relative;
+}
+.OnImg{
+    position: absolute;
+    color: black;
+    font-size: larger;
+    top: 20%;
+    left: 40%;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    /* background-color: white; */
+    border-radius: 15px;
+}
+
+.para{
+    color:black;
+    font-size: large;
+}

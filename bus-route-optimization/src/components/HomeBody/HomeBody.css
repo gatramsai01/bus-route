@@ -1,0 +1,27 @@
+.HomeBody{
+    height: 110vh;
+    background-color: black;
+    color: white;
+}
+.Body{
+       /* background-color: white; */
+       /* margin-top: 10%; */
+    /* color: black; */
+}
+.LeftBody{
+    float:left;
+    margin-left: 20px;
+}
+.RightBody{
+    /* margin-top: 10%; */
+    float: right;
+}
+.LeftBodyBOttom{
+    /* width: 55%; */
+    display: flex;
+}
+.p{
+    margin-right: 7%;
+    padding: 1%;
+    width: 130px;
+}

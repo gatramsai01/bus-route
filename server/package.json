@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev":"nodemon --exec python3 app.py"
+  },
+  "author": "",
+  "license": "ISC"
+}
